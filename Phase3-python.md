@@ -60,9 +60,9 @@
 - [Conclusion to Object Inheritance](https://github.com/learn-co-curriculum/python-p3-conclusion-to-object-inheritance)
 
 ## Class Attributes and Class Methods in Python
-- [Intro to Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
-- [Defining Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
-- [Remembering Objects](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
+- [Intro to Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/01-Intro-to-Class-Attributes.md)
+- [Defining Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/02-Defining-Class-Attributes.md)
+- [Remembering Objects](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/03-Remembering-Objects.md)
 	- [Class Attributes and Methods Lab](https://github.com/learn-co-curriculum/python-p3-class-attributes-and-methods-lab)
 
 ## Configuring Python Applications
