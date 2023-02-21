@@ -37,32 +37,32 @@
 - [{"basket": "ball"}](https://github.com/learn-co-curriculum/python-p3-basket-ball)
 
 ## Object Orientation in Python
-- [Introduction to Object-Oriented Programming](phase-3/05-Object-Orientation-in-Python/***.md)
-- [Defining Object-Oriented Programming](phase-3/05-Object-Orientation-in-Python/***.md)
-- [Classes and Instances](phase-3/05-Object-Orientation-in-Python/***.md)
+- [Introduction to Object-Oriented Programming](phase-3/05-Object-Orientation-in-Python/01-Intro-to-Object-Oriented-Programming.md)
+- [Defining Object-Oriented Programming](phase-3/05-Object-Orientation-in-Python/02-Defining-OO-Programming.md)
+- [Classes and Instances](phase-3/05-Object-Orientation-in-Python/03-Classes-and-Instances.md)
 	- [Instance Methods](https://github.com/learn-co-curriculum/python-p3-instance-methods)
 	- [Object Initialization](https://github.com/learn-co-curriculum/python-p3-init-self)
 	- [Attributes and Properties](https://github.com/learn-co-curriculum/python-p3-attributes-and-properties)
 	- [Putting It All Together: Object-Oriented Programming Lab](https://github.com/learn-co-curriculum/python-p3-oop-putting-it-all-together)
-- [Principles of Object-Oriented Design](phase-3/05-Object-Orientation-in-Python/***.md)
+- [Principles of Object-Oriented Design](phase-3/05-Object-Orientation-in-Python/04-Principles-of-OO-Design.md)
 	- [Anagram Detector Lab](https://github.com/learn-co-curriculum/python-p3-anagram-detector-lab)
 	- [Counting Sentences Lab](https://github.com/learn-co-curriculum/python-p3-oo-counting-sentences-lab)
 	- [Cash Register Lab](https://github.com/learn-co-curriculum/python-p3-oo-cash-register-lab)
 
 ## Object Inheritance in Python
-- [Intro to Object Inheritance](phase-3/06-Object-Inheritance-in-Python/***.md)
+- [Intro to Object Inheritance](phase-3/06-Object-Inheritance-in-Python/01-Intro-to-Object-Inheritance.md)
 	- [Defining Object Inheritance](https://github.com/learn-co-curriculum/python-p3-defining-object-inheritance)
-- [Super](phase-3/06-Object-Inheritance-in-Python/***.md)
+- [Super](phase-3/06-Object-Inheritance-in-Python/02-Super.md)
 	- [Object Inheritance Lab, Part One](https://github.com/learn-co-curriculum/python-p3-inheritance-lab)
 	- [Object Inheritance Lab, Part Two](https://github.com/learn-co-curriculum/python-p3-inheritance-lab-pt-2)
-- [Decorators](phase-3/06-Object-Inheritance-in-Python/***.md)
-- [Mini Lesson: Lambda Functions](https://github.com/learn-co-curriculum/python-p3-lambdas)
+- [Decorators](phase-3/06-Object-Inheritance-in-Python/03-Decorators.md)
+- [Mini Lesson: Lambda Functions](phase-3/06-Object-Inheritance-in-Python/04-Lambdas.md)
 - [Conclusion to Object Inheritance](https://github.com/learn-co-curriculum/python-p3-conclusion-to-object-inheritance)
 
 ## Class Attributes and Class Methods in Python
-- [Intro to Class Attributes and Class Methods](phase-3/#)
-- [Defining Class Attributes and Class Methods](phase-3/#)
-- [Remembering Objects](phase-3/#)
+- [Intro to Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
+- [Defining Class Attributes and Class Methods](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
+- [Remembering Objects](phase-3/07-Class-Attributes-and-Class-Methods-in-Python/)
 	- [Class Attributes and Methods Lab](https://github.com/learn-co-curriculum/python-p3-class-attributes-and-methods-lab)
 
 ## Configuring Python Applications
