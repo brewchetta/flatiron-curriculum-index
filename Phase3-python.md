@@ -89,7 +89,6 @@
 - [CRUD Operations in SQL](https://github.com/learn-co-curriculum/python-p3-sql-crud)
 - [SQL Queries](https://github.com/learn-co-curriculum/python-p3-sql-queries)
 	- [Organizing Bears Lab](https://github.com/learn-co-curriculum/python-p3-organizing-bears-lab)
-- [Conclusion to SQL Fundamentals](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sql)
 
 ## Table Relations in SQL (links may not work)
 - [Intro to Table Relations in SQL](https://github.com/learn-co-curriculum/python-p3-intro-to-sql-table-relations)
@@ -98,15 +97,13 @@
 	- [Video: SQL Joins](https://github.com/learn-co-curriculum/phase-3-lecture-videos-sql-joins)
 - [SQL Joins](https://github.com/learn-co-curriculum/python-p3-sql-joins)
 - [Creating Join Tables](https://github.com/learn-co-curriculum/python-p3-creating-join-tables)
-- [Conclusion to Table Relations in SQL](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sql-table-relations)
 
 ## Object-Relational Mapping
-- [Intro to Object-Relational Mapping](#)
-- [Defining Object-Relational Mapping](https://github.com/learn-co-curriculum/python-p3-defining-object-relational-mapping)
+- [Intro to Object-Relational Mapping](phase-3/09-Object-Relational-Mapping/01-Intro-to-ORM.md)
+- [Defining Object-Relational Mapping](phase-3/09-Object-Relational-Mapping/02-Defining-ORM.md)
 	- [Mapping Python Classes to a Database](https://github.com/learn-co-curriculum/python-p3-mapping-python-classes-to-a-database)
-- [Mapping Database Records to Python Objects](https://github.com/learn-co-curriculum/python-p3-mapping-database-records-to-python-objects)
+- [Mapping Database Records to Python Objects](phase-3/09-Object-Relational-Mapping/03-Mapping-DB-Objects.md)
 	- [Putting it All Together: ORMs Lab](https://github.com/learn-co-curriculum/python-p3-orms-putting-it-all-together)
-- [Conclusion to Object-Relational Mapping](https://github.com/learn-co-curriculum/python-p3-conclusion-to-object-relational-mapping)
 
 ## Using SQLAlchemy
 - [Intro to SQLAlchemy](https://github.com/learn-co-curriculum/python-p3-intro-to-sqlalchemy)
