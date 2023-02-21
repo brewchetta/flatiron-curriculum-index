@@ -66,16 +66,16 @@
 	- [Class Attributes and Methods Lab](https://github.com/learn-co-curriculum/python-p3-class-attributes-and-methods-lab)
 
 ## Configuring Python Applications
-- [Intro to Configuring Python Applications](phase-3/#)
-- [Import](phase-3/#)
-- [Intro to File IO](phase-3/#)
+- [Intro to Configuring Python Applications](phase-3/08-Configuring-Python-Applications/01-Intro-to-Configuring.md)
+	- [Import](https://github.com/learn-co-curriculum/python-p3-import)
+- [Intro to File IO](phase-3/08-Configuring-Python-Applications/02-Intro-to-File-IO.md)
 	- [File IO Lab](https://github.com/learn-co-curriculum/python-p3-fileio-lab)
-- [Environment Setup](phase-3/#)
-- [PyPi and Pip](phase-3/#)
+- [Environment Setup](phase-3/08-Configuring-Python-Applications/03-EnvironmentSetup.md)
+- [PyPi and Pip](phase-3/08-Configuring-Python-Applications/04-PyPi-and-Pip.md)
 	- [Environment Lab](https://github.com/learn-co-curriculum/python-p3-pip-lab)
-- [Python Scripting](phase-3/#)
+- [Python Scripting](phase-3/08-Configuring-Python-Applications/05-Python-Scripting.md)
 
-## SQL Fundamentals
+## SQL Fundamentals (links may not work)
 - [Intro to SQL](https://github.com/learn-co-curriculum/python-p3-intro-to-sql)
 	- [Video: Intro to SQL](https://github.com/learn-co-curriculum/phase-3-lecture-videos-intro-to-sql)
 - [Setting up SQLite](https://github.com/learn-co-curriculum/python-p3-setting-up-sqlite)
@@ -91,7 +91,7 @@
 	- [Organizing Bears Lab](https://github.com/learn-co-curriculum/python-p3-organizing-bears-lab)
 - [Conclusion to SQL Fundamentals](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sql)
 
-## Table Relations in SQL
+## Table Relations in SQL (links may not work)
 - [Intro to Table Relations in SQL](https://github.com/learn-co-curriculum/python-p3-intro-to-sql-table-relations)
 - [Relational Database Basics](https://github.com/learn-co-curriculum/python-p3-relational-database-basics)
 - [Associating Tables with Foreign Keys](https://github.com/learn-co-curriculum/python-p3-associating-tables-with-foreign-keys)
