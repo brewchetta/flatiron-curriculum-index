@@ -115,24 +115,12 @@
 	- [Working with Seed Data](https://github.com/learn-co-curriculum/python-p3-working-with-seed-data)
 
 ## SQLAlchemy Relationships
-- [Intro to SQLAlchemy Relationships](https://github.com/learn-co-curriculum/python-p3-intro-to-sqlalchemy-relationships)
+- [Intro to SQLAlchemy Relationships](phase-3/11-SQLAlchemy-Relationships/01-Intro-to-SQLAlchemy-Relationships.md)
 	- [One-to-One and One-to-Many Relationships](https://github.com/learn-co-curriculum/python-p3-sqlalchemy-one-to-many)
 	- [Many-to-Many Relationships](https://github.com/learn-co-curriculum/python-p3-sqlalchemy-many-to-many)
-- [Conclusion to SQLAlchemy Relationships](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sqlalchemy-relationships)
 	- [Phase 3 Mock Code Challenge: Freebie Tracker](https://github.com/learn-co-curriculum/python-p3-freebie-tracker)
 	- [Phase 3 Mock Code Challenge: Theater Work](https://github.com/learn-co-curriculum/python-p3-theater-work)
 
-## Data Structures and Algorithms
-- [Introduction to Data Structures and Algorithms](https://github.com/learn-co-curriculum/python-p3-dsa-intro)
-- [Using Data Structures](https://github.com/learn-co-curriculum/python-p3-dsa-using-data-structures)
-	- [Set Data Structure Code Along](https://github.com/learn-co-curriculum/python-p3-dsa-set-codealong)
-- [Stack Data Structure](https://github.com/learn-co-curriculum/python-p3-dsa-stack-data-structure)
-	- [Stack Lab](https://github.com/learn-co-curriculum/python-p3-dsa-stack-lab)
-- [Singly Linked List Data Structure](https://github.com/learn-co-curriculum/python-p3-dsa-singly-linked-list)
-- [Doubly Linked List Data Structure](https://github.com/learn-co-curriculum/python-p3-dsa-doubly-linked-list)
-- [Tree Data Structure](https://github.com/learn-co-curriculum/python-p3-dsa-tree-data-structure)
-	- [Tree Traversal](https://github.com/learn-co-curriculum/python-p3-dsa-tree-traversal)
-
 ## Phase 3 Project
-- [Intro to CLIs](https://github.com/learn-co-curriculum/python-p3-intro-to-cli)
+- [Intro to CLIs](phase-3/12-Phase-3-Projects/01-Intro-to-CLI.md)
 	- [Phase 3 Project: CLI](https://github.com/learn-co-curriculum/python-p3-final-project)
