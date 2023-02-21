@@ -106,14 +106,13 @@
 	- [Putting it All Together: ORMs Lab](https://github.com/learn-co-curriculum/python-p3-orms-putting-it-all-together)
 
 ## Using SQLAlchemy
-- [Intro to SQLAlchemy](https://github.com/learn-co-curriculum/python-p3-intro-to-sqlalchemy)
+- [Intro to SQLAlchemy](phase-3/10-Using-SQLAlchemy/01-Intro-to-SQLAlchemy.md)
 	- [Defining a Schema with SQLAlchemy ORM](https://github.com/learn-co-curriculum/python-p3-defining-schema-with-sqlalchemy)
-- [Create, Read, Update, and Delete with SQLAlchemy](https://github.com/learn-co-curriculum/python-p3-crud-with-sqlalchemy)
+- [Create, Read, Update, and Delete with SQLAlchemy](phase-3/10-Using-SQLAlchemy/02-CRUD-with-SQLAlchemy.md)
 	- [Translating from ORMS to SQLAlchemy Lab](https://github.com/learn-co-curriculum/python-p3-translating-from-orms-to-sqlalchemy-lab)
 	- [Migrations and Alembic](https://github.com/learn-co-curriculum/python-p3-migrations-and-alembic)
 	- [Manual Migrations and Downgrades](https://github.com/learn-co-curriculum/python-p3-manual-migrations-and-downgrades)
 	- [Working with Seed Data](https://github.com/learn-co-curriculum/python-p3-working-with-seed-data)
-- [Conclusion to SQLAlchemy](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sqlalchemy)
 
 ## SQLAlchemy Relationships
 - [Intro to SQLAlchemy Relationships](https://github.com/learn-co-curriculum/python-p3-intro-to-sqlalchemy-relationships)
