@@ -1,34 +1,30 @@
 # Flatiron School Phase 3 Python Curriculum
 
 ## Welcome to Phase 3!
-- [Welcome to Phase 3](https://github.com/learn-co-curriculum/python-p3-welcome-to-phase-3)
-- [Installing Python on MacOS](https://github.com/learn-co-curriculum/python-p3-macos-env-python)
-- [Verify and Troubleshoot your MacOS Environment Setup](https://github.com/learn-co-curriculum/python-p3-macos-env-verification-py)
-- [Windows WSL2 Python Installation](https://github.com/learn-co-curriculum/python-p3-wsl-env-python)
-- [Verify and Troubleshoot your WSL2 Environment Setup](https://github.com/learn-co-curriculum/python-p3-wsl2-env-verification-py)
+- [Installing Python on MacOS](phase-3/01-Welcome-to-Phase-3/01-Installing-Python-on-MacOS.md)
+- [Verify and Troubleshoot your MacOS Environment Setup](phase-3/01-Welcome-to-Phase-3/02-Verify-and-Troubleshoot-MacOS.md)
+- [Windows WSL2 Python Installation](phase-3/01-Welcome-to-Phase-3/03-Windows-WSL2-Python-Installation.md)
 
 ## Python Fundamentals
-- [Intro to Python](https://github.com/learn-co-curriculum/phase-3-intro-to-python)
+- [Intro to Python](02-Python-Fundamentals/01-Intro-to-Python.md)
 	- [Running Python Code](https://github.com/learn-co-curriculum/phase-3-running-python-code)
-- [Common Data Types](https://github.com/learn-co-curriculum/phase-3-common-python-data-types)
+- [Common Data Types](02-Python-Fundamentals/02-Common-Datatypes.md)
 	- [Reading Python Error Messages](https://github.com/learn-co-curriculum/phase-3-reading-python-error-messages)
 	- [Functions in Python](https://github.com/learn-co-curriculum/phase-3-python-methods)
 	- [Debugging with ipdb](https://github.com/learn-co-curriculum/phase-3-debugging-with-ipdb)
-- [Variable Scope](https://github.com/learn-co-curriculum/phase-3-python-variable-scope)
-- [Indentation in Python](https://github.com/learn-co-curriculum/phase-3-python-indentation)
-- [Control Flow: Operators](https://github.com/learn-co-curriculum/phase-3-python-control-flow-operators)
+- [Variable Scope](02-Python-Fundamentals/03-Variable-Scope.md)
+- [Indentation in Python](02-Python-Fundamentals/04-Indentation-in-Python.md)
+- [Control Flow: Operators](02-Python-Fundamentals/05-Control-Flow-Operators.md)
 	- [Control Flow: Conditional Statements](https://github.com/learn-co-curriculum/phase-3-python-conditional-statements)
 	- [Control Flow: Loops](https://github.com/learn-co-curriculum/phase-3-python-loops)
-- [Conclusion to Python Fundamentals](https://github.com/learn-co-curriculum/phase-3-conclusion-to-python-fundamentals)
 
 ## Data Structures
-- [Intro to Data Structures](https://github.com/learn-co-curriculum/phase-3-intro-to-data-structures)
+- [Intro to Data Structures](03-Data-Structures-in-Python/01-Intro-to-Datastructures.md)
 	- [Sequences](https://github.com/learn-co-curriculum/phase-3-sequences)
 	- [List Comprehension and Generator Expressions](https://github.com/learn-co-curriculum/phase-3-comprehensions-and-generators)
-- [Dictionaries](https://github.com/learn-co-curriculum/phase-3-dictionaries)
-- [Sets](https://github.com/learn-co-curriculum/phase-3-sets)
+- [Dictionaries](03-Data-Structures-in-Python/02-Disctionaries.md)
+- [Sets](03-Data-Structures-in-Python/03-Sets.md)
 	- [Data Structures Lab](https://github.com/learn-co-curriculum/phase-3-data-structures-lab)
-- [Conclusion to Data Structures](https://github.com/learn-co-curriculum/phase-3-conclusion-to-data-structures)
 
 ## Python Practice
 - [Parrot Lab](https://github.com/learn-co-curriculum/python-p3-parrot-lab)
@@ -41,54 +37,43 @@
 - [{"basket": "ball"}](https://github.com/learn-co-curriculum/python-p3-basket-ball)
 
 ## Object Orientation in Python
-- [Introduction to Object-Oriented Programming](https://github.com/learn-co-curriculum/python-p3-intro-to-object-oriented-programming)
-- [Defining Object-Oriented Programming](https://github.com/learn-co-curriculum/python-p3-defining-object-oriented-programming)
-- [Classes and Instances](https://github.com/learn-co-curriculum/python-p3-classes-and-instances)
+- [Introduction to Object-Oriented Programming](05-Object-Orientation-in-Python/***.md)
+- [Defining Object-Oriented Programming](05-Object-Orientation-in-Python/***.md)
+- [Classes and Instances](05-Object-Orientation-in-Python/***.md)
 	- [Instance Methods](https://github.com/learn-co-curriculum/python-p3-instance-methods)
 	- [Object Initialization](https://github.com/learn-co-curriculum/python-p3-init-self)
 	- [Attributes and Properties](https://github.com/learn-co-curriculum/python-p3-attributes-and-properties)
 	- [Putting It All Together: Object-Oriented Programming Lab](https://github.com/learn-co-curriculum/python-p3-oop-putting-it-all-together)
-- [Principles of Object-Oriented Design](https://github.com/learn-co-curriculum/python-p3-oop-design-principles)
+- [Principles of Object-Oriented Design](05-Object-Orientation-in-Python/***.md)
 	- [Anagram Detector Lab](https://github.com/learn-co-curriculum/python-p3-anagram-detector-lab)
 	- [Counting Sentences Lab](https://github.com/learn-co-curriculum/python-p3-oo-counting-sentences-lab)
 	- [Cash Register Lab](https://github.com/learn-co-curriculum/python-p3-oo-cash-register-lab)
-- [Conclusion to Object-Oriented Programming Basics](https://github.com/learn-co-curriculum/python-p3-conclusion-to-object-oriented-programming)
 
 ## Object Inheritance in Python
-- [Intro to Object Inheritance](https://github.com/learn-co-curriculum/python-p3-intro-to-object-inheritance)
+- [Intro to Object Inheritance](06-Object-Inheritance-in-Python/***.md)
 	- [Defining Object Inheritance](https://github.com/learn-co-curriculum/python-p3-defining-object-inheritance)
-- [Super](https://github.com/learn-co-curriculum/python-p3-super)
+- [Super](06-Object-Inheritance-in-Python/***.md)
 	- [Object Inheritance Lab, Part One](https://github.com/learn-co-curriculum/python-p3-inheritance-lab)
 	- [Object Inheritance Lab, Part Two](https://github.com/learn-co-curriculum/python-p3-inheritance-lab-pt-2)
-- [Decorators](https://github.com/learn-co-curriculum/python-p3-decorators)
+- [Decorators](06-Object-Inheritance-in-Python/***.md)
 - [Mini Lesson: Lambda Functions](https://github.com/learn-co-curriculum/python-p3-lambdas)
 - [Conclusion to Object Inheritance](https://github.com/learn-co-curriculum/python-p3-conclusion-to-object-inheritance)
 
 ## Class Attributes and Class Methods in Python
-- [Intro to Class Attributes and Class Methods](https://github.com/learn-co-curriculum/python-p3-intro-to-class-attributes-and-methods)
-- [Defining Class Attributes and Class Methods](https://github.com/learn-co-curriculum/python-p3-defining-class-attributes-and-methods)
-- [Remembering Objects](https://github.com/learn-co-curriculum/python-p3-remembering-objects)
+- [Intro to Class Attributes and Class Methods](#)
+- [Defining Class Attributes and Class Methods](#)
+- [Remembering Objects](#)
 	- [Class Attributes and Methods Lab](https://github.com/learn-co-curriculum/python-p3-class-attributes-and-methods-lab)
-- [Conclusion to Class Attributes and Class Methods](https://github.com/learn-co-curriculum/python-p3-conclusion-to-class-attributes-and-methods)
 
 ## Configuring Python Applications
-- [Intro to Configuring Python Applications](https://github.com/learn-co-curriculum/python-p3-intro-to-configuring-applications)
-- [Import](https://github.com/learn-co-curriculum/python-p3-import)
-- [Intro to File IO](https://github.com/learn-co-curriculum/python-p3-fileio)
+- [Intro to Configuring Python Applications](#)
+- [Import](#)
+- [Intro to File IO](#)
 	- [File IO Lab](https://github.com/learn-co-curriculum/python-p3-fileio-lab)
-- [Environment Setup](https://github.com/learn-co-curriculum/python-p3-environment-setup)
-- [PyPi and Pip](https://github.com/learn-co-curriculum/python-p3-pypi)
+- [Environment Setup](#)
+- [PyPi and Pip](#)
 	- [Environment Lab](https://github.com/learn-co-curriculum/python-p3-pip-lab)
-- [Python Scripting](https://github.com/learn-co-curriculum/python-p3-python-scripting)
-
-## Regular Expressions
-- [Intro to Regular Expressions](https://github.com/learn-co-curriculum/python-p3-intro-to-regex)
-- [RegEx Basics](https://github.com/learn-co-curriculum/python-p3-regex-basics)
-- [The "re" Module](https://github.com/learn-co-curriculum/python-p3-re-module)
-	- [RegEx Validations Lab](https://github.com/learn-co-curriculum/python-p3-regex-validations-lab)
-	- [Email Parser Lab](https://github.com/learn-co-curriculum/python-p3-email-parser-lab)
-	- [BONUS: RegEx Matching Lab](https://github.com/learn-co-curriculum/python-p3-regex-lab)
-- [Conclusion to Regular Expressions](https://github.com/learn-co-curriculum/python-p3-conclusion-to-regex)
+- [Python Scripting](#)
 
 ## SQL Fundamentals
 - [Intro to SQL](https://github.com/learn-co-curriculum/python-p3-intro-to-sql)
@@ -116,7 +101,7 @@
 - [Conclusion to Table Relations in SQL](https://github.com/learn-co-curriculum/python-p3-conclusion-to-sql-table-relations)
 
 ## Object-Relational Mapping
-- [Intro to Object-Relational Mapping](https://github.com/learn-co-curriculum/python-p3-intro-to-object-relational-mapping)
+- [Intro to Object-Relational Mapping](#)
 - [Defining Object-Relational Mapping](https://github.com/learn-co-curriculum/python-p3-defining-object-relational-mapping)
 	- [Mapping Python Classes to a Database](https://github.com/learn-co-curriculum/python-p3-mapping-python-classes-to-a-database)
 - [Mapping Database Records to Python Objects](https://github.com/learn-co-curriculum/python-p3-mapping-database-records-to-python-objects)
@@ -155,6 +140,3 @@
 ## Phase 3 Project
 - [Intro to CLIs](https://github.com/learn-co-curriculum/python-p3-intro-to-cli)
 	- [Phase 3 Project: CLI](https://github.com/learn-co-curriculum/python-p3-final-project)
-
-
-
