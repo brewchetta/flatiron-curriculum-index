@@ -1,4 +1,4 @@
-# Flatiron School Phase 3 Python Curriculum
+# Flatiron School Phase 4 Python Curriculum
 
 ## Intro to Flask
 - [Intro to Flask](https://github.com/learn-co-curriculum/python-p4-intro-to-flask)
